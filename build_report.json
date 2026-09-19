@@ -226,14 +226,1591 @@
     "VALENTINO_3567_53035",
     "VALENTINO_3567_54545",
     "VALENTINO_3567_54546",
-    "VALENTINO_3567_793"
+    "VALENTINO_3567_793",
+    "BLUEJAY_1810_16419",
+    "EGS-34978",
+    "EXCELS_3543_102901",
+    "EXCELS_3543_113667",
+    "EXCELS_3543_42268",
+    "EXCELS_3543_67887",
+    "GDN_2674_14",
+    "GDN_2674_3761",
+    "GLIMPSE_9223_34789",
+    "GLIMPSE_9223_43084",
+    "GOODSN_1211_1795",
+    "GOODSN_1211_2460",
+    "GOODSN_1211_4151",
+    "GOODSN_1211_4319",
+    "GTO_1213_9063",
+    "GTO_1214_1158",
+    "GTO_1214_2937",
+    "GTO_1215_3088",
+    "GTO_1215_3470",
+    "GTO_1215_3757",
+    "GTO_1215_4250",
+    "GTO_1215_4909",
+    "J0226_3325_1884",
+    "J0226_3325_6699",
+    "JADES_1181_29711",
+    "MACS1149_2758_150471",
+    "RUBIES-EGS-19174",
+    "RUBIES-EGS-50812",
+    "RUBIES-EGS-920",
+    "RUBIES-UDS-11721",
+    "RUBIES-UDS-146995",
+    "RUBIES-UDS-153207",
+    "RUBIES-UDS-18302",
+    "RUBIES-UDS-21944",
+    "RUBIES-UDS-22304",
+    "RUBIES-UDS-46566",
+    "RUBIES-UDS-46885",
+    "RUBIES-UDS-48507",
+    "RUBIES_4233_10036",
+    "RUBIES_4233_119559",
+    "RUBIES_4233_147412",
+    "RUBIES_4233_150323",
+    "RUBIES_4233_150987",
+    "RUBIES_4233_15825",
+    "RUBIES_4233_160366",
+    "RUBIES_4233_16053",
+    "RUBIES_4233_25712",
+    "RUBIES_4233_30969",
+    "RUBIES_4233_37032",
+    "RUBIES_4233_41683",
+    "RUBIES_4233_41926",
+    "RUBIES_4233_45502",
+    "RUBIES_4233_50522",
+    "RUBIES_4233_58237",
+    "RUBIES_4233_61627",
+    "RUBIES_4233_8895",
+    "UDS-143498",
+    "UDS-143741",
+    "UDS-144195",
+    "UDS-154183",
+    "UDS-19785",
+    "UDS-23438",
+    "UDS-42289",
+    "UDS-44043",
+    "UDS-53452",
+    "UDS-5496",
+    "UDS-966096",
+    "UDS-967770",
+    "VALENTINO_3567_5276",
+    "VALENTINO_3567_55536",
+    "VALENTINO_3567_71"
   ],
+  "oiii_first_count": 227,
+  "no_oiii_second_count": 71,
+  "details": {
+    "AURORA_1914_100182": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_26798": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_4740": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_5469": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "AURORA_1914_6124": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_8769": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_921842": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "AURORA_1914_927605": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "AURORA_1914_928583": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_10314": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "BLUEJAY_1810_11142": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "BLUEJAY_1810_11337": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_12020": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_12148": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_17000": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_18668": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_18688": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_18977": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_19572": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "BLUEJAY_1810_19705": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_19891": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_19945": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_7102": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_7185": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_8002": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_8280": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_8500": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CANTALUPO_1835_2044": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CECILIA_2593_25": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CECILIA_2593_29": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CECILIA_2593_4": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS-11728": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS-397": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS-672": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS_1345_1244": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS_1345_2782": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "CEERS_1345_2904": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "CEERS_1345_746": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "COSMOS_1879_1295": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "COSMOS_1879_2342": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "COSMOS_4318_126891": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "COSMOS_4318_126981": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-17301": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-46724": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-53254": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-70473": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-927271": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-931291": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-952625": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-959367": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS_4106_47962": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS_4106_51623": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS_4106_57146": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS_4106_71365": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS_4287_127193": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_112990": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_34495": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "EXCELS_3543_69759": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "EXCELS_3543_89922": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_2674_32": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_2674_934": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_4762_16620": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "GDN_4762_33609": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_4762_36344": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDS_1207_208030": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDS_1207_209962": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "GDS_1210_13704": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDS_1210_9515": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDS_1671_37005": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_11026": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_26653": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_329380": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_46938": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_5536": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GN-29648": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GN-62309": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_2066": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_5243": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GS-159438": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GS-200679": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GS-9598": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_4446": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0226_3325_10867": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0226_3325_3190": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0226_3325_9556": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0910_2028_12910": {
+      "no_oiii": false,
+      "wide_override": [
+        "our_model",
+        "baccus_model",
+        "taylor_model"
+      ],
+      "broad_oiii_appended": false
+    },
+    "J0910_2028_14306": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0910_2028_14324": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_107700": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_13329": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_13520": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_16375": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_17341": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_197911": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1180_209777": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_44271": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1180_5807": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1180_6112": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1180_7384": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_1093": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_11836": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_20621": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_22456": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1181_2331": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_23367": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_23924": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1181_25055": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "JADES_1181_26194": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_27887": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_28074": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_28746": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_2916": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_34145": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_38147": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_39353": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_53501": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_61888": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_64818": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_68797": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_721": {
+      "no_oiii": false,
+      "wide_override": [
+        "our_model",
+        "baccus_model",
+        "taylor_model"
+      ],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_72127": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_73488": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_77652": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_78773": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_954": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_159717": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_172975": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_180575": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_204851": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_30148179": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_37746": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1286_38562": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "LYC22_1869_20013": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "LYC22_1869_20081": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "LYC22_1869_2009": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "LYC22_1869_4096": {
+      "no_oiii": false,
+      "wide_override": [
+        "baccus_model",
+        "taylor_model"
+      ],
+      "broad_oiii_appended": false
+    },
+    "MACS0416_4750_22011": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS0416_4750_50001": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS0416_4750_60003": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS0416_4750_60009": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_1199_20024": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_1199_80002": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_150337": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_30028": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_40149": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_40151": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_60001": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_60003": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-17146": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-45599": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-46985": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-19484": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_13872": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_139709": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_148866": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_166271": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_172350": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_174752": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_17604": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_182791": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_19521": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_24210": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_29489": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_29813": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_42046": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_42232": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_42658": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_42803": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_47509": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_48449": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_49140": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_50052": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_50716": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_55604": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_60935": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_61496": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_6411": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_807469": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_925921": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_926125": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_970351": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "STARK_2478_16056": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "SUSPENSE_2110_128452": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "SUSPENSE_2110_130040": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "SUSPENSE_2110_130647": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-149298": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-14947": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-171824": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-19112": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-24447": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-33938": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-34411": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-36171": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-41571": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-53692": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-60452": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-830237": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-848745": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-916674": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-919440": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-920396": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-961025": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-981721": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_10480": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_136272": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_1369": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_1546": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_1552": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_18": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_20910": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_217057": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_24": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_262": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "VALENTINO_3567_3285": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_40442": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": true
+    },
+    "VALENTINO_3567_406": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_40904": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_4301": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_44021": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_44330": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_45518": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_51372": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_51909": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_53035": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_54545": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_54546": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_793": {
+      "no_oiii": false,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "BLUEJAY_1810_16419": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EGS-34978": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_102901": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_113667": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_42268": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "EXCELS_3543_67887": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_2674_14": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GDN_2674_3761": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_34789": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GLIMPSE_9223_43084": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_1795": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_2460": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_4151": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GOODSN_1211_4319": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1213_9063": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1214_1158": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1214_2937": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_3088": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_3470": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_3757": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_4250": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "GTO_1215_4909": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0226_3325_1884": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "J0226_3325_6699": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "JADES_1181_29711": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "MACS1149_2758_150471": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-19174": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-50812": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-EGS-920": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-11721": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-146995": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-153207": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-18302": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-21944": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-22304": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-46566": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-46885": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES-UDS-48507": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_10036": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_119559": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_147412": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_150323": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_150987": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_15825": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_160366": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_16053": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_25712": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_30969": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_37032": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_41683": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_41926": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_45502": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_50522": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_58237": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_61627": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "RUBIES_4233_8895": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-143498": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-143741": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-144195": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-154183": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-19785": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-23438": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-42289": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-44043": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-53452": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-5496": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-966096": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "UDS-967770": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_5276": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_55536": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    },
+    "VALENTINO_3567_71": {
+      "no_oiii": true,
+      "wide_override": [],
+      "broad_oiii_appended": false
+    }
+  },
   "failures": {},
   "inputs": {
-    "selected": "/RS2423/zhourui/DJA/selected_spectra.json",
-    "catalog": "/RS2423/zhourui/DJA/msa_catalog_atlas.cat",
-    "mine": "/RS2423/zhourui/DJA/mymodel_me.json",
-    "baccus": "/RS2423/zhourui/DJA/baccus_me.json",
-    "taylor": "/RS2423/zhourui/DJA/taylor_refit_me.json"
+    "selected": "/RS2423/zhourui/final_four_model_pipeline/selected_spectra.json",
+    "no_oiii_selected": "/RS2423/zhourui/final_four_model_pipeline/halpha_no_oiii_fit/selected_halpha_only_spectra.json",
+    "formal_results": "/RS2423/zhourui/final_four_model_pipeline/results",
+    "wide_results": "/RS2423/zhourui/final_four_model_pipeline/results_wide_halpha",
+    "broad_oiii_results": "/RS2423/zhourui/final_four_model_pipeline/broad_oiii_halpha_refit/results",
+    "no_oiii_results": "/RS2423/zhourui/final_four_model_pipeline/halpha_no_oiii_fit/results_no_oiii/our_model"
   }
 }
